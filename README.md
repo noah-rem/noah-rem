@@ -2,6 +2,7 @@
 <p align="center">
 I'm Noah, a French software/web developer.
 </p>
+<h1></h1>
 <p align="center"><b> 📈 Stats </b></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noah-rem&show_icons=true&theme=transparent&hide=contribs"> 
